@@ -1,0 +1,1 @@
+from ._bicubic_wrap import interpolate as bicubic
