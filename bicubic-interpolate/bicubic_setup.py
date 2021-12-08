@@ -1,6 +1,5 @@
 from distutils.core import setup, Extension
 import os
-import pip
 import subprocess
 import numpy as np
 

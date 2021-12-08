@@ -1,0 +1,8 @@
+name: rsmc
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - metaphone
+  - numpy
+  - pandas
